@@ -29,6 +29,9 @@ Sweet-Crumbs-Bakery/
 ├── style.css
 └── images/
 ```
+## Preview
+
+![Sweet Crumbs Bakery](images/hbw.png)
 
 ## 🚀 How to Run
 
